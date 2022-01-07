@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
       },
       {
         name: 'hulk',
-        img: 'images/hulk.png'
+        img: 'images/hlk.png'
       },
       {
         name: 'thor',
